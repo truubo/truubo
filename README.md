@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Trubo. That is all.
+I am Trubo/James/whatever.
 - he/him
 - very smart dumbass
 - decent in python and lua
+That is all.
