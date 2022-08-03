@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 -->
 
 I am Trubo/James/whatever.
+
+Some crap about me
+
 - he/him
-- very smart dumbass
 - decent in python and lua
+- smart dumbass
+
+Projects I'm working on
+
+- Aeroxan
 
 That is all.
