@@ -20,11 +20,10 @@ I am Trubo/James/whatever.
 Some crap about me
 
 - he/him
+- straight
 - decent in python and lua
 - smart dumbass
 
-Projects I'm working on
-
-- Aeroxan
+Not working on any projects (or any you should know about...)
 
 That is all.
