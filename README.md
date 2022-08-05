@@ -24,6 +24,6 @@ Some crap about me
 - decent in python and lua
 - smart dumbass
 
-Not working on any projects (or any you should know about...)
+I'm working on Aeroxan, which pumps new life into a version of (R) from 2012.
 
-That is all.
+That is all. I am Trubo.
