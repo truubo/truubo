@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Trubo/James/whatever.
 
-Some crap about me
+Some stuff about me
 
 - he/him
 - straight
